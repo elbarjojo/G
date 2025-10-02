@@ -1,1 +1,1 @@
-print("Hello, World!") # This is a simple test script
+print("Bye, World!") # This is a simple test script
